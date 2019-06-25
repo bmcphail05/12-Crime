@@ -19,7 +19,6 @@ Purdue University
 @snap[north span-100]
 ### Social Control
 @snapend
-
 @snap[west span-90]
 **social control**: the regulation and enforcement of norms; organized action intended to change people’s behavior
 @ul[](false)
@@ -76,7 +75,6 @@ Risk Management Ex.: Using alarm systems, CCTV surveillance cameras, adding or i
 @snap[north span-100]
 ### Functionalist
 @snapend
-
 - Most likely in communities with weak social ties and the absence of social control (social disorganization theory).
 - Access to socially acceptable goals plays a part in determining whether a person conforms or deviates (strain theory).
 
@@ -84,7 +82,6 @@ Risk Management Ex.: Using alarm systems, CCTV surveillance cameras, adding or i
 @snap[north span-100]
 ### Conflict Theory
 @snapend
-
 - Individuals choose to engage in deviant behavior in response to inequalities of the capitalist system.
 
 - **Crimes of accommodation**: ways in which individuals cope with conditions of oppression
@@ -138,7 +135,7 @@ Defensive crimes like economic sabotage, illegal strikes, civil disobedience, an
 ### Conclusion
 @snapend
 - Deviance is, essentially, an issue of social definition.
-- A sociological perspective on crime/deviance.
+- A sociological perspective on crime/deviance:˜
   - Which social control strategies are effective?
   - Who commits crimes and why?
   - Why are certain acts labeled normal/deviant/criminal?
